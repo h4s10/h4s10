@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-label="A faint carrier signal">
+<rect width="1200" height="32" fill="#111515"/>
+<path d="M20 16h362m12 0h51m14 0h240m17 0h463" fill="none" stroke="#707c79" stroke-width="1"/>
+<path d="M560 16h9l3-5 3 12 3-7h9" fill="none" stroke="#b5bfba" stroke-width="1"/>
+<circle cx="32" cy="16" r="3" fill="#a74d51"/>
+<path d="M1167 12v8m-4-4h8" stroke="#b5bfba" stroke-width="1"/>
+</svg>

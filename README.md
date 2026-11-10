@@ -1,69 +1,49 @@
 <p align="center">
-  <img src="./assets/gen-x-soft-club.png" alt="h4s10 — .NET / AI / AUDIO. A soft-focus city terminal in silver, blue and sage." width="100%" />
+  <img src="./assets/wired.png" alt="h4s10. Somewhere between code and signal. Utility wires, a flickering screen, a figure in the static." width="100%" />
 </p>
+
+<br />
 
 <p align="center">
-  <sub><a href="#01--profile">01 / profile</a> &nbsp; &nbsp; <a href="#02--selected-work">02 / selected work</a> &nbsp; &nbsp; <a href="#03--toolkit">03 / toolkit</a> &nbsp; &nbsp; <a href="https://github.com/h4s10?tab=repositories">all repositories ↗</a></sub>
+  <samp>a small disturbance in the wired.<br />
+  fragments of code. residual sound.<br />
+  something is still running.</samp>
 </p>
 
 <br />
 
-### 01 / profile
-
-I build .NET applications, experiment with AI, and make tools for working with audio plugins. Here you'll find desktop projects, bot integrations and reusable libraries.
-
-**Code, sound & everything in between.**
-
-<br />
-
-### 02 / selected work
-
-<table>
-  <tr>
-    <td align="center" width="64"><sub>01<br />AUDIO</sub></td>
-    <td>
-      <a href="https://github.com/h4s10/NativePluginConverter"><b>NativePluginConverter ↗</b></a><br />
-      A desktop app for packaging native FL Studio plugins as VST3 bridges. Cross-platform converter; exported bridges currently target Windows x64.<br />
-      <sub>C++ &nbsp; / &nbsp; Electron &nbsp; / &nbsp; VST3</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="64"><sub>02<br />AI</sub></td>
-    <td>
-      <a href="https://github.com/h4s10/AIInterviewAssistant"><b>AIInterviewAssistant ↗</b></a><br />
-      An experimental interview assistant combining speech recognition with GPT. Built with .NET MAUI and VOSK, with Russian-language support.<br />
-      <sub>C# &nbsp; / &nbsp; .NET MAUI &nbsp; / &nbsp; VOSK</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="64"><sub>03<br />API</sub></td>
-    <td>
-      <a href="https://github.com/h4s10/bot-vkteam-dotnet"><b>bot-vkteam-dotnet ↗</b></a><br />
-      A .NET interface for VK Teams bots, built on Refit. Typed API calls and examples for handling incoming events. A work in progress.<br />
-      <sub>C# &nbsp; / &nbsp; .NET &nbsp; / &nbsp; Refit</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="64"><sub>04<br />DATA</sub></td>
-    <td>
-      <a href="https://github.com/h4s10/SpecificationPattern"><b>SpecificationPattern ↗</b></a><br />
-      A specification-pattern library based on EF Core. Compose query criteria, includes and ordering into reusable specifications.<br />
-      <sub>C# &nbsp; / &nbsp; EF Core &nbsp; / &nbsp; .NET</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/h4s10/NativePluginConverter" title="NativePluginConverter — audio plugin bridges"><samp>[ 01 / signal ]</samp></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/h4s10/AIInterviewAssistant" title="AIInterviewAssistant — speech and AI experiment"><samp>[ 02 / echo ]</samp></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/h4s10/bot-vkteam-dotnet" title="bot-vkteam-dotnet — VK Teams bot interface"><samp>[ 03 / relay ]</samp></a>
+</p>
 
 <br />
 
-### 03 / toolkit
-
-**Applications** &nbsp; C# · .NET · .NET MAUI · EF Core · Refit  
-**Desktop & audio** &nbsp; C++ · Electron · JavaScript · VST3  
-**Web & real-time** &nbsp; TypeScript · SignalR  
-**AI & speech** &nbsp; GPT · VOSK
+<details>
+  <summary><samp>inspect the signal</samp></summary>
 
 <br />
 
-<p><sub>Explore the code, try a tool, or open an issue in the relevant repository.</sub></p>
+| node | trace |
+| :--- | :--- |
+| [NativePluginConverter](https://github.com/h4s10/NativePluginConverter) | Native FL Studio plugins → VST3 bridges. Cross-platform converter; exported bridges currently target Windows x64. |
+| [AIInterviewAssistant](https://github.com/h4s10/AIInterviewAssistant) | Experimental speech + GPT assistant. C#, .NET MAUI, VOSK. Russian-language support. |
+| [bot-vkteam-dotnet](https://github.com/h4s10/bot-vkteam-dotnet) | A .NET interface for VK Teams bots, built on Refit. Work in progress. |
+| [SpecificationPattern](https://github.com/h4s10/SpecificationPattern) | Composable query specifications for EF Core. |
 
-<img src="./assets/footer.svg" alt="End of transmission — h4s10 / code + sound" width="100%" />
+<sub>C# / .NET / C++ / Electron / TypeScript / audio / AI experiments</sub>
+
+<br />
+
+[the rest of the archive ↗](https://github.com/h4s10?tab=repositories)
+
+</details>
+
+<br />
+
+<p align="center"><sub><samp>you can leave the page. the signal stays.</samp></sub></p>
+
+<img src="./assets/carrier.svg" alt="A faint carrier signal." width="100%" />
